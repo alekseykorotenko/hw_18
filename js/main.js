@@ -35,6 +35,7 @@ switch (operation) {
     break;
   default:
     'wrong data';
+    break;
 }
 
 // let res =
